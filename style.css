@@ -1,0 +1,186 @@
+header{
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+body{
+    background-color: #541554;
+}
+
+
+
+.headerleft{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    font-family: 'Times New Roman', Times, serif;
+     font-size: x-large;
+    
+    
+ 
+}
+
+
+
+    
+.button{
+    color: aquamarine;
+    background-color: #541554;
+    border: 1px solid white ;
+    width:167px;
+    height:56px;
+}
+.color{
+
+    color: white;
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+section{
+    min-height: 100vh;
+    padding: 10rem 9% 2 rem;
+}
+
+.home{
+    display: flex;
+    align-items: center;
+    padding: 0 9% ;
+    
+}
+.homecontent{
+    max-width: 60rem;
+   
+}
+
+.homecontenth1{
+    font-size: 456px;
+    font-weight: 700;
+   line-height: 1.3;
+  
+}
+
+.homecontent .textanimate  {
+
+position: relative;
+width: 32.8rem;
+}
+
+.homecontent span{
+
+  color: goldenrod;
+  font-size: 76px;
+  font-weight: bold;
+
+}
+
+.homecontent h1{
+
+   color: white;
+   font-size: 76px;
+}
+
+.color{
+    font-size: 29px;
+}
+
+.btn{
+     
+     background-color: white;
+     width: 234px;
+     height: 78px;
+     border-radius: 4px;
+ 
+    
+    
+    }
+.btn1{
+   background-color: #4285F4;
+   width: 234px;
+   height: 78px;
+   border-radius: 4px;
+   
+}
+
+.div{
+
+    font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.div2{
+    font-size: 19px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.btn3{
+
+    width: 200px;
+    height: 67px;
+    border-radius: 4px;
+    border: 2px solid ;
+   background-color: #541554;
+   color: white;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 20px;
+    
+
+}
+
+.po{
+    color: white;
+    
+}
+.na{
+
+}
+
+.btn4{
+
+    width: 200px;
+    height: 67px;
+    border-radius: 4px;
+    border: 2px solid ;
+   background-color: white;
+   color: black;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 20px;
+    
+
+}
+.h1{
+
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: ;
+}
+
+.video {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    max-height: 100%;
+    max-width: 100%;
+    margin: auto;
+}
+
+
+
+
+
+
+
+   
+   
+
+
+
+
+
+
+
+     
